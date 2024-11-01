@@ -1,0 +1,128 @@
+.font_color_1 {
+	color: var(--primary-color);
+}
+
+.font_color_2 {
+	color: var(--secondary-color);
+}
+
+.font_color_3 {
+	color: var(--tertiary-color);
+}
+
+.font_color_4 {
+	color: var(--accent-color-1);
+}
+
+.font_color_5 {
+	color: var(--accent-color-2);
+}
+
+.font_color_6 {
+	color: var(--black-color);
+}
+
+.font_color_7 {
+	color: var(--white-color);
+}
+
+.background_color_1 {
+	background-color: var(--primary-color);
+}
+
+.background_color_2 {
+	background-color: var(--secondary-color);
+}
+
+.background_color_3 {
+	background-color: var(--tertiary-color);
+}
+
+.background_color_4 {
+	background-color: var(--accent-color-1);
+}
+
+.background_color_5 {
+	background-color: var(--accent-color-2);
+}
+
+.background_color_6 {
+	background-color: var(--black-color);
+}
+
+.background_color_7 {
+	background-color: var(--white-color);
+}
+
+/*
+* Front end style
+*/
+.clear {
+	clear:both;
+}
+
+.sec_id_div {
+	display: none;
+}
+
+.tempB_align_center {
+	max-width: 40%;
+	min-width: 40%;
+	margin: 0 auto;
+}
+
+.tempB_align_left {
+	max-width: 40%;
+	min-width: 40%;
+    
+    height: 100%;
+}
+
+.tempB_align_right {
+	max-width: 40%;
+	min-width: 40%;
+    margin-left: 45%;
+    height: 100%;
+}
+
+.tempB_text_div {
+	padding: 20px;
+}
+/*
+.dynamic_heading_1 {
+	font-family: var(--heading_1_family);
+	font-weight: var(--heading_1_weight);
+	font-size: var(--heading_1_size);
+}
+
+.dynamic_heading_2 {
+	font-family: var(--heading_2_family);
+	font-weight: var(--heading_2_weight);
+	font-size: var(--heading_2_size);
+}
+
+.dynamic_heading_3 {
+	font-family: var(--heading_3_family);
+	font-weight: var(--heading_3_weight);
+	font-size: var(--heading_3_size);
+}
+
+.dynamic_menu,
+.dynamic_menu ul li a {
+	font-family: var(--menu_family) !important;
+	font-weight: var(--menu_weight) !important;
+	font-size: var(--menu_size) !important;
+}
+
+.dynamic_body {
+	font-family: var(--body_family) !important;
+	font-weight: var(--body_weight) !important;
+	font-size: var(--body_size) !important;
+}
+
+.dynamic_button {
+	font-family: var(--button_family) !important;
+	font-weight: var(--button_weight) !important;
+	font-size: var(--button_size) !important;
+}
+*/
